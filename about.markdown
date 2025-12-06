@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About This Blog
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hello 👋 This site is a place to document small challenges I've encountered and sometimes conquered with various technologies.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I imagine it will primarily be used to record fixes to silly problems that I know I will forget and waste time on in the future. 🚀🍪
 
+Anyway here is a picture of a milkshake:
 
-[jekyll-organization]: https://github.com/jekyll
+![Five guys milkshake](/assets/images/fiveguys_shake.png "It was strawberry flavoured with whipped cream")
